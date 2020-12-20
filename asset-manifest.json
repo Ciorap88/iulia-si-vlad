@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/iulia-si-vlad/static/css/main.05837ae4.chunk.css",
+    "main.js": "/iulia-si-vlad/static/js/main.77041a40.chunk.js",
+    "main.js.map": "/iulia-si-vlad/static/js/main.77041a40.chunk.js.map",
+    "runtime-main.js": "/iulia-si-vlad/static/js/runtime-main.b927c0d4.js",
+    "runtime-main.js.map": "/iulia-si-vlad/static/js/runtime-main.b927c0d4.js.map",
+    "static/js/2.e2ed4b45.chunk.js": "/iulia-si-vlad/static/js/2.e2ed4b45.chunk.js",
+    "static/js/2.e2ed4b45.chunk.js.map": "/iulia-si-vlad/static/js/2.e2ed4b45.chunk.js.map",
+    "static/js/3.496425ae.chunk.js": "/iulia-si-vlad/static/js/3.496425ae.chunk.js",
+    "static/js/3.496425ae.chunk.js.map": "/iulia-si-vlad/static/js/3.496425ae.chunk.js.map",
+    "index.html": "/iulia-si-vlad/index.html",
+    "static/css/main.05837ae4.chunk.css.map": "/iulia-si-vlad/static/css/main.05837ae4.chunk.css.map",
+    "static/js/2.e2ed4b45.chunk.js.LICENSE.txt": "/iulia-si-vlad/static/js/2.e2ed4b45.chunk.js.LICENSE.txt",
+    "static/media/1.4503bc7f.jpg": "/iulia-si-vlad/static/media/1.4503bc7f.jpg",
+    "static/media/2.13a7f5ee.jpg": "/iulia-si-vlad/static/media/2.13a7f5ee.jpg",
+    "static/media/3.9c859ecf.jpg": "/iulia-si-vlad/static/media/3.9c859ecf.jpg",
+    "static/media/4.4d0fb515.jpg": "/iulia-si-vlad/static/media/4.4d0fb515.jpg",
+    "static/media/5.a074816a.jpg": "/iulia-si-vlad/static/media/5.a074816a.jpg",
+    "static/media/6.eda50bef.jpg": "/iulia-si-vlad/static/media/6.eda50bef.jpg",
+    "static/media/7.c0811ec9.jpg": "/iulia-si-vlad/static/media/7.c0811ec9.jpg",
+    "static/media/8.720bb028.jpg": "/iulia-si-vlad/static/media/8.720bb028.jpg",
+    "static/media/heart.556c78a5.png": "/iulia-si-vlad/static/media/heart.556c78a5.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b927c0d4.js",
+    "static/js/2.e2ed4b45.chunk.js",
+    "static/css/main.05837ae4.chunk.css",
+    "static/js/main.77041a40.chunk.js"
+  ]
+}
